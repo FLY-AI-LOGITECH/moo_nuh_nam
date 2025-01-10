@@ -15,4 +15,7 @@ FLY AI 코딩 테스트 스터디
 ![image](https://github.com/user-attachments/assets/5404ff4e-388e-4ae0-8c16-a964939a2f1e)
 
 
-운영 방식에 대한 의견 있으시면 언제든 말씀해주십셔
+### week 1
+- https://school.programmers.co.kr/learn/courses/30/lessons/12937
+- https://school.programmers.co.kr/learn/courses/30/lessons/12906
+- https://school.programmers.co.kr/learn/courses/30/lessons/250137
