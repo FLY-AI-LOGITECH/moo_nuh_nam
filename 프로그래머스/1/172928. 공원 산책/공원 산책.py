@@ -13,7 +13,7 @@ def solution(park, routes):
         count = int(routes[i][2])  
         rc, rr = sc, sr  
 
-        for _ in range(count):
+        for k in range(count):
             if direction == 'E': 
                 sr += 1
             elif direction == 'W':  
